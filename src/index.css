@@ -8,12 +8,8 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: rgb(238, 174, 202);
-  background: radial-gradient(
-    circle,
-    rgba(238, 174, 202, 1) 0%,
-    rgba(148, 187, 233, 1) 100%
-  );
+  background: #ffc6ff;
+
   text-transform: capitalize;
   line-height: 1.5;
   font-size: 0.875rem;
@@ -79,9 +75,13 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 0 auto;
-  margin-top: 20vh;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   width: 500px;
+  height: 500px;
   background: #cdb4db;
   box-shadow: 3px 3px 11px 0px rgba(0, 0, 0, 0.75);
   border-radius: 10px;
