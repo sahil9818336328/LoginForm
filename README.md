@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-View my deplyed app at :- https://affectionate-einstein-f353fe.netlify.app/
+View my deplyed app at :- https://youthful-kilby-b6dd28.netlify.app/
 
 ## Available Scripts
 
